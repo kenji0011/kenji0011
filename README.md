@@ -36,6 +36,7 @@ I'm a student diving into the world of programming with a focus on **Python** an
 
 ---
 
+<!---
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -45,7 +46,7 @@ I'm a student diving into the world of programming with a focus on **Python** an
 </div>
 
 ---
-
+--->
 ### 🌐 Connect With Me
 
 <p align="center">
