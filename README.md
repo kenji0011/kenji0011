@@ -5,7 +5,7 @@
 -->
 
 <h1 align="center">Hi, I'm Kenji 👋</h1>
-<h3 align="center">A passionate student learning Python & Java</h3>
+<h3 align="center">A passionate student learning Python & Machine Learning</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=36BCF7&center=true&vCenter=true&width=500&lines=Always+curious...;Learning+with+purpose;Code+is+my+canvas" alt="Typing SVG" />
