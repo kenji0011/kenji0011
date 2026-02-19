@@ -17,22 +17,22 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm a student diving into the world of programming with a focus on **Python** and **Java**. I love building small projects, solving problems, and learning something new every day. When I'm not coding, you’ll probably find me gaming casually or exploring tech tutorials.
 
-- 🔭 I’m currently learning core programming concepts and OOP
-- 🌱 I’m always exploring new tools and libraries
-- 💬 Ask me about Python basics, Java fundamentals
-- 🎮 I enjoy indie games and RPGs in my free time
-- 🧠 "Learning is a superpower" – that's my motto!
+- I’m currently learning core programming concepts and OOP
+- I’m always exploring new tools and libraries
+- Ask me about Python basics, Java fundamentals
+- I enjoy indie games and RPGs in my free time
+- "Learning is a superpower" – that's my motto!
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ---
 
@@ -63,8 +63,8 @@ I'm a student diving into the world of programming with a focus on **Python** an
 
 ---
 
-### 🎯 Fun Fact
-I believe curiosity is the best teacher — and yes, I sometimes code just to see what happens! 💥
+### Fun Fact
+I believe curiosity is the best teacher — and yes, I sometimes code just to see what happens! 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kenji0011/kenji0011/main/footer.gif" alt="Animated Footer" width="800" />
