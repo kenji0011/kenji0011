@@ -4,7 +4,7 @@
   Generated with love by GitHub Assistant 🤖
 -->
 
-<h1 align="center">Hi, I'm Kenji 👋</h1>
+<h1 align="center">Hi, I'm Kean Gabriel Salvahan 👋</h1>
 <h3 align="center">A passionate student learning Python & Machine Learning</h3>
 
 <p align="center">
@@ -21,11 +21,6 @@
 
 I'm a student diving into the world of programming with a focus on **Python** and **Java**. I love building small projects, solving problems, and learning something new every day. When I'm not coding, you’ll probably find me gaming casually or exploring tech tutorials.
 
-- I’m currently learning core programming concepts and OOP
-- I’m always exploring new tools and libraries
-- Ask me about Python basics, Java fundamentals
-- I enjoy indie games and RPGs in my free time
-- "Learning is a superpower" – that's my motto!
 
 ---
 
@@ -53,7 +48,7 @@ I'm a student diving into the world of programming with a focus on **Python** an
   <a href="https://www.linkedin.com/in/salvahan-kean-gabriel-e-06760537b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://kenji0011.github.io/website/" target="_blank">
+  <a href="https://kenji-v2-beta-green.vercel.app/#about" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:keangabriel101@gmail.com">
@@ -64,7 +59,7 @@ I'm a student diving into the world of programming with a focus on **Python** an
 ---
 
 ### Fun Fact
-I believe curiosity is the best teacher — and yes, I sometimes code just to see what happens! 
+I believe curiosity is the best teacher and yes, I sometimes code just to see what happens! 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kenji0011/kenji0011/main/footer.gif" alt="Animated Footer" width="800" />
