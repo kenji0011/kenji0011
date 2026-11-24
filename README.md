@@ -25,12 +25,6 @@
 
 Intelligent Systems Computer Science student based in Laguna, Philippines, specializing in **Data Analytics** with a growing focus on **Quality Assurance** and **Workflow Automation**. I audit relational data integrity, build full-stack and offline-first applications, and am currently open to **On-the-Job Training (OJT)** roles.
 
-| Focus | Scope | Primary Tools |
-| :--- | :--- | :--- |
-| **Data Analytics** | Querying relational datasets, auditing data integrity, and building reporting dashboards | `SQL` `PostgreSQL` `Pandas` |
-| **Quality Assurance** | Structured test case design, system workflow analysis, and software reliability | `Manual QA` `API Testing` `Postman` |
-| **Automation** | Eliminating repetitive manual checks with scripted test suites and CI pipelines | `PyTest` `Selenium` `Python` `GitHub Actions` |
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
